@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : todoapplication : ToDoApplication-0.1.war">
+    <output-path>$PROJECT_DIR$/../ToDoApplication/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/../ToDoApplication" />
+    </properties>
+    <root id="archive" name="ToDoApplication-0.1.war">
+      <element id="artifact" artifact-name="Gradle : todoapplication : ToDoApplication-0.1.war (exploded)" />
+    </root>
+  </artifact>
+</component>
